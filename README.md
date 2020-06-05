@@ -3,6 +3,10 @@ Slides and talks from presentations, workshops, etc'
 
 Video recordings:
 
+* Winning the Kaggle WIDS challenge and Time-series Feature engineering - Given online for Kaggle IL, and BGU DISCO.
+ * https://www.youtube.com/watch?v=GdCpMOEWB94
+ * [#1st place approach](https://www.kaggle.com/c/widsdatathon2020/discussion/133189) - Detailed writeup on Kaggle
+
 * Medical ML, healthcare and model/feature interpretability - PyCon Israel 2019
   * [https://youtu.be/ZYT6rpzPTkA](https://youtu.be/ZYT6rpzPTkA)
   
